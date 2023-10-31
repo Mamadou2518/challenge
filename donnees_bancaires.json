@@ -1,0 +1,33 @@
+{
+  "taux_emprunt": {
+    "0-10": {
+      "Taux emprunt": "3.00%"
+    },
+    "11-15": {
+      "Taux emprunt": "2.74%"
+    },
+    "16-25": {
+      "Taux emprunt": "2.52%"
+    },
+    "26-33": {
+      "Taux emprunt": "2.10%"
+    },
+    "34-40": {
+      "Taux emprunt": "1.85%"
+    }
+  },
+  "passagers": {
+    "x1": {
+      "bonus/malus": "0.11%"
+    },
+    "x2": {
+      "bonus/malus": "-0.17%"
+    },
+    "x3": {
+      "bonus/malus": "-0.29%"
+    },
+    "x4": {
+      "bonus/malus": "-0.53%"
+    }
+  }
+}
